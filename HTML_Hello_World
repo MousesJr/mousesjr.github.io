@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+			<title>Hellow World</title>
+	</head>
+		<body>
+			<h1 style="color: navy">DBO</h1>
+			<!-- Style é um atributo de h1. Dentro de style vai o código CSS (aparência) -->
+
+			<h2>Hello World</h2>
+
+				<p>
+				Meu texto longo aqui, não importa se e onde um <em>enter</em> é dado.
+
+				<script>
+					document.write(new Date());
+				</script>
+
+				</p>
+
+				Olá Mundo <button>Clique-me!!!</button>
+				Curso
+				<b>Técnico</b>
+				de
+				<!-- body é o documento, o miolo da janela do navegador-->
+				<strong>Informática</strong>
+				para
+				Internet <br>
+				<em>IFRS Rio Grande</em>
+		<body>
+</html>
