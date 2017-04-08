@@ -1,0 +1,24 @@
+browser(user-agent):
+	aplicativo capaz de interpretar HTML, CSS e JS
+	sugerido:  chrome ou firefox
+
+OBS.: ABRA A PASTA, NÃO O ARQUIVO
+OBS.: O Browser não conta mais que um espaço entre duas palavras inseridas no HTML.
+
+<button></button> == <button/>
+<br> não requer fechamento
+<b>[text]</b> == bold (negrito)
+<strong>[text]</strong> == intensifica o texto
+<em>[text]</em> == enfase
+<h1>[text]</h1> ==  título do body
+<h2>[text]</h2> == subtítulo do body
+<p>[text]</p> == parágrafo
+
+
+Comentário:
+<!--[text]-->
+
+OBS.: As tags operam de acordo com os padrões do HTML. Fontes e afins são modificados pela intervenção de CSS.
+OBS.: Bloco: é separado do restante do texto por uma tag que o abraça
+      Inline: é aquilo cuja teg o abraça permanece na mesma linha em que o restante do texto se encontra
+
