@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!-- Adrian e Alan -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lancheria</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+    <h1>Lanches</h1>
+    <div id="opcoes">
+      <button id="button-lanches">Lanches</button><br>
+      <button id="button-petiscos">Petiscos</button><br>
+      <button id="button-bebidas">Bebidas</button><br>
+      <button id="button-resumo">Resumo do pedido</button><br>
+      <button id="button-terminar">Terminar pedido</button>
+    </div>
+    <div id="cardapio">
+      <p id="titulo-cardapio">Cardápio</p>
+      <table id="lanches" class="hidden">
+        <thead>
+          <tr>
+            <th>Lanches</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><button id="xb">X-Burguer</button></td>
+            <td>R$10,00</td>
+          </tr>
+          <tr>
+            <td><button id="ta">Torrada Americana</button></td>
+            <td>R$15,00</td>
+          </tr>
+          <tr>
+            <td><button id='bf'>Baurú de Filé</button></td>
+            <td>R$23,00</td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="petiscos" class="hidden">
+        <thead>
+          <tr>
+            <th>Petiscos</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><button>Bolo</button></td>
+            <td>R$6,00</td>
+          </tr>
+          <tr>
+            <td><button>Brigadeiro</button></td>
+            <td>R#1,00</td>
+          </tr>
+          <tr>
+            <td><button>Bala</button></td>
+            <td>R$0,50</td>
+          </tr>
+        </tbody>
+      </table>
+      <table id="bebidas" class="hidden">
+        <thead>
+          <tr>
+            <th>Bebidas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><button>Água</button></td>
+            <td>R$1,00</td>
+          </tr>
+          <tr>
+            <td><button>Refri</button></td>
+            <td>R$3,00</td>
+          </tr>
+          <tr>
+            <td><button>Suco</button></td>
+            <td>R$2,00</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p id="preco-final">R$ </p>
+    <script type="text/javascript" src="index.js">
+    </script>
+  </body>
+</html>

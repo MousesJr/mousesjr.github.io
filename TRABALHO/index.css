@@ -1,0 +1,40 @@
+#opcoes {
+  position: relative;
+  float: left;
+}
+
+#cardapio {
+  position: relative;
+  margin-left: 200px;
+}
+
+#lanches {
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+
+#petiscos {
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+
+#bebidas {
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+
+#preco-final {
+  position: relative;
+  top: 200px;
+}
+
+table.hidden {
+  visibility: hidden;
+}
+
+table.show {
+  visibility: visible;
+}
