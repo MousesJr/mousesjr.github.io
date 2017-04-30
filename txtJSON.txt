@@ -1,0 +1,16 @@
+﻿Analisando a implementação do projeto 'Aly', considerando alguns essenciais aspectos, pode-se concluir, sob a visão de positivas e negativas críticas que
+apesar de não ter sido mantida a identidade do layout e das funcionalidades (não levando em consideração as que foram mal explicadas no Briefing), foi-se
+mantida a ideia geral de seu funcionamento e de suas operações.
+No entanto, não foram incorporadas algumas necessárias e indispensáveis características das quais o Briefing e o Sketch apresentaram claramente as suas funcionalidades e 
+seu layout.
+Foi percebida uma demasiada subjetividade, permitida, de fato, naquilo em que não se tinha especificado do Sketch no Briefing sobre layout, mas, na escala
+que tomou, levou a comprometer sua identidade.
+Não é totalmente operante naquilo em que deveria, mas possui certas funcionalidades que foram requeridas.
+De forma geral, pode-se dizer que não foi implementado o projeto da forma que era indicada, mas em vista de um possível mau entendimento do Briefing em relação ao Sketch,
+levou-se em consideração alguns erros.
+Em suma, o trabalho, a meu ver, ficou comprometido em não operar da forma que devia e por não comportar a essência do projeto como originalmente foi concebido.
+
+Sobre o processo de implementação que foi realizado pelo meu grupo, abrangendo toda a experiência feita durante a aula, notou-se uma certa dificuldade no compartilhamento
+das soluções logicas do problema e na sua sintetização.
+Houve também dificuldade na compreensão do que se estava fazendo enquanto um dos integrantes programava e a sequência de passos que este dava em relação ao que o outro
+integrante fazia quando tomava controle do computador.
