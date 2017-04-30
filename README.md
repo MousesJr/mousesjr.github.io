@@ -3,7 +3,7 @@
   
 It contais:
  - Logical problems solving
- - Coding with JS
+ - Coding in JS
  - Learning HTML
  - Learnig CSS
  - Some computational tests that've done well.
