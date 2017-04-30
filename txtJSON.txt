@@ -1,0 +1,41 @@
+﻿Analisando a implementação do projeto 'Aly', considerando alguns essenciais aspectos, pode-se concluir, sob a visão de positivas e negativas críticas que
+apesar de não ter sido mantida a identidade do layout e das funcionalidades (não levando em consideração as que foram mal explicadas no Briefing), foi-se
+mantida a ideia geral de seu funcionamento e de suas operações.
+No entanto, não foram incorporadas algumas necessárias e indispensáveis características das quais o Briefing e o Sketch apresentaram claramente as suas funcionalidades e 
+seu layout.
+Foi percebida uma demasiada subjetividade, permitida, de fato, naquilo em que não se tinha especificado do Sketch no Briefing sobre layout, mas, na escala
+que tomou, levou a comprometer sua identidade.
+Não é totalmente operante naquilo em que deveria, mas possui certas funcionalidades que foram requeridas.
+De forma geral, pode-se dizer que não foi implementado o projeto da forma que era indicada, mas em vista de um possível mau entendimento do Briefing em relação ao Sketch,
+levou-se em consideração alguns erros.
+Em suma, o trabalho, a meu ver, ficou comprometido em não operar da forma que devia e por não comportar a essência do projeto como originalmente foi concebido.
+
+
+Com relação à implementação do sketch "Minhas Tirinhas" ,
+é destacada de forma positiva a capacidade do grupo de implementar
+a funcionalidade de 
+adição de comics ao albúm, em concordância com
+o que foi projetado no sketch. Porém, entre os aspectos negativos,
+nota-se que o grupo não foi capaz de 
+implementar a funcionalidade
+de pesquisa, conforme o que foi projetado no sketch. Mais uma vez,
+em relação à conformidade da implementação com as 
+ideias do sketch,
+notou-se a falta de certos elementos da interface gráfica, mais
+notóriamente com relação às divs que deveriam aparecer e serem 
+ocultadas
+ao se clicar nos botões de pesquisa e adição.
+
+
+ASPECTO DA IMPLEMENTAÇÃO  |   PESO    |   NOTA OBTIDA
+
+ADICIONAR À GALERIA       |   5.0     |      5.0
+
+FUNCIONALIDADE DE PESQUISA|   3.0     |      0.0
+
+INTERFACE GRÁFICA         |   2.0     |      1.0
+
+
+Sobre a implementação que o nosso grupo realizou, achamos que, por uma certa ambiguidade sobre alguns elementos, mais especificamente com relação a posição do 
+resultado final do pedido no layout da página. No entanto, os demais elementos estavam organizadamente dispostos de forma que não houve dificuldade 
+em compreender sua aplicação.
